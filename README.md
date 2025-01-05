@@ -13,6 +13,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Acesse o site clicando ▶️[AQUI!](https://arthurberto.github.io/03-travelgram)◀️
+Acesse o site clicando ▶️[AQUI!](https://arthurberto.github.io/travelgram)◀️
 
 Feito com ♥ by Arthur Berto
